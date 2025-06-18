@@ -1,4 +1,4 @@
-Tentu, ini draf `README.md` yang bisa Anda gunakan untuk repositori GitHub tersebut, disesuaikan dengan struktur folder yang kita bahas sebelumnya. Anda bisa mengeditnya agar lebih sesuai dengan detail spesifik buku Anda.
+
 
 -----
 
